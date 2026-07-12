@@ -1,9 +1,10 @@
+
 # Self-Balancing Robot
 
 A compact, 3D-printed self-balancing robot powered by an ESP32 and an MPU-6500 IMU. The robot uses a PID (Proportional-Integral-Derivative) controller to continuously measure its angle and adjust two DC motors to keep itself balanced.
 
 This project is a great introduction to robotics, embedded systems, and control theory.
-
+<img width="428.4" height="571.2" alt="IMG_9674" src="https://github.com/user-attachments/assets/77f27308-317a-42b5-93ea-25266bd30065" />
 ## Features
 
 - ESP32
@@ -23,7 +24,7 @@ This project is a great introduction to robotics, embedded systems, and control 
 - 2× DC Gear Motors
 - 2S LiPo
 - Jumper Wires
-
+<img width="428.4" height="571.2" alt="IMG_9675" src="https://github.com/user-attachments/assets/84cebacf-ec7e-4474-bfce-0cb94eb86d0c" />
 ---
 
 ## 3D Printed Parts
